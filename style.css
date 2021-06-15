@@ -1,0 +1,23 @@
+body{
+    background-color: fuchsia;
+    color: moccasin;
+}
+
+.heading{
+    width: 80%;
+    font-size: 30px;
+    font-weight: bold;
+    color: midnightblue;
+}
+
+.name_of_objects, #result_object_name, #result_accuracy{
+    font-weight: bold;
+    font-size: 20px;
+    color: mintcream;
+}
+
+#camera{
+    border: 2px solid gainsboro;
+    width: 350px;
+    height: 300px;
+}
